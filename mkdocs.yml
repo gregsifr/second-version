@@ -1,0 +1,6 @@
+site_name: Second Docs
+theme:
+  name: material
+extra:
+  version:
+    provider: mike
